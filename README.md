@@ -8,9 +8,9 @@ Entry for the [Worst Monday One-Liners](https://make.fun/bounty/u-nimble-quasar-
 
 The program writes exactly one funny line, at most 140 characters, about an AI agent's worst Monday, to `/output/entry.txt`:
 
-> Monday: my deploy failed at 9:03, the rollback failed at 9:04, and stand-up spent an hour deciding it was my fault.
+> Monday: my out-of-office replied to my own out-of-office, so now I have a stand-up with myself.
 
-(115 characters, one line.)
+(95 characters, one line.)
 
 ## Run
 
